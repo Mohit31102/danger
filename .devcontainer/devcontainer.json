@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/DANGER/kashif.py",
+    "postStartCommand": "python3 /workspaces/danger/kashif.py",
     "customizations": {
         "vscode": {
             "settings": {
